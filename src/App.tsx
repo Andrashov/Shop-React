@@ -1,8 +1,8 @@
 import React from "react";
-import logo from "./logo.svg";
- 
+import "../src/components/styles/main.scss";
+
 function App() {
-  return <></>;
+  return <>dasdasdad</>;
 }
 
 export default App;
